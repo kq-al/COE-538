@@ -1,6 +1,6 @@
 # COE-538 Final Project
 
-#Overview: 
+# Overview:
 **Project Title**: EEBOT Maze Runner Project
 
 #Project Description: 
