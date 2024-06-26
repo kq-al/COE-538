@@ -3,11 +3,11 @@
 # Overview:
 **Project Title**: EEBOT Maze Runner Project
 
-#Project Description: 
+# Project Description:
 
 The EEBOT Maze Runner Project involved implementing assembly language code to enable a robot (EEBOT) to autonomously navigate complex mazes using various algorithms. The primary goals included guiding the robot through the maze, making decisions at intersections, and finding the way out of dead ends. The project required integrating sensors, LCD displays, motors, and developing software routines to manage these components effectively
 
-#Main Code Blocks: 
+# Main Code Blocks:
 
 **Initialization and Configuration**: Set up foundational elements, define constants, initialize sensors, configure timers, and define variables for data conversions.
 
@@ -19,7 +19,7 @@ The EEBOT Maze Runner Project involved implementing assembly language code to en
 
 **Data Conversion**: Created subroutines to convert data between different formats (e.g., BCD or ASCII) for tasks such as displaying numbers on the LCD.
 
-#Challenges Encountered: 
+# Challenges Encountered:
 
 **Code Organization**: Managing a large assembly language project required careful structuring into manageable modules and subroutines.
 
@@ -27,3 +27,12 @@ The EEBOT Maze Runner Project involved implementing assembly language code to en
 
 **Debugging**: Debugging assembly language programs can be challenging, necessitating the use of emulators and step-through execution.
 
+# Reflection & Future Recommendations: 
+
+**Modular Design:** Emphasizing modular design from the beginning simplifies development and debugging.
+
+**Real-time Feedback:** Using LCD screens for instant updates enhances user experience.
+
+**Iterative Development:** Incremental development and thorough testing result in a robust system.
+
+**Collaboration:** Utilizing version control tools like Git/GitHub streamlines group collaboration.
